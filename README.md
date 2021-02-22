@@ -1,24 +1,6 @@
-# README
+## google map apiを用いて検索した所にピンを立てるアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 目的
+- google map apiを実装してAPI理解への足掛かりとする
+- dot-envの使い方アウトプット
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
